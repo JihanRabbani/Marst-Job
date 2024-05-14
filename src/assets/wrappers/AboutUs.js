@@ -53,6 +53,7 @@ const Wrapper = styled.section`
   }
   .image {
     width: 100%;
+    height: 100%;
   }
   .container-info {
     padding: 1rem 1rem;
